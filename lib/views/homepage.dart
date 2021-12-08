@@ -18,7 +18,7 @@ class _HomePageState extends State<HomePage> {
         body: Center(
             child: Padding(
           padding: EdgeInsets.all(32.0),
-          child: AspectRatio(aspectRatio: 1, child: Stopwatch()),
+          child: AspectRatio(aspectRatio: 0.7, child: Stopwatch()),
         )),
       ),
     );
