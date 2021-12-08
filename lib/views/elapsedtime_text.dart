@@ -42,7 +42,7 @@ class TimeDigit extends StatelessWidget {
         padding: const EdgeInsets.only(bottom: 12.0),
         child: Text(
           text,
-          style: TextStyle(fontSize: 40, color: Colors.yellow),
+          style: TextStyle(fontSize: 30, color: Colors.yellow),
           textAlign: TextAlign.center,
         ),
       ),
